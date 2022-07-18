@@ -1,0 +1,33 @@
+#timecontainer{
+    
+    
+    
+    
+    
+    font-weight: bolder;
+    font-size:  150px;
+    
+    
+    
+        
+}
+#bt{
+    color: black;
+}
+a{
+    color: antiquewhite;
+}
+
+
+#timezone{
+    
+    
+    background-color: #DBE2EF;
+    height: 100%;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    border: black 4px solid;
+    border-radius: 70px;
+    
+}
